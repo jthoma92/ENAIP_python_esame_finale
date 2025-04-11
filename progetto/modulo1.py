@@ -38,7 +38,7 @@ class classeDaFinire:
         """
         Questo metodo dovrebbe aggiungere un argomento numerico all'età dell'oggetto.
         """
-        return f"{self.nome} tra {x} anni avrà {self.età + x}"
+        return f"{self.nome} tra {x} anni avrà {self.età + x} anni"
 
 # Paolo = classeDaFinire("Paolo", 33, "Trieste")
 # print(Paolo.metodo1())
