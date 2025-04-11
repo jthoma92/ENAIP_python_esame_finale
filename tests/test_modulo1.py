@@ -9,7 +9,7 @@ def test_funzione2():
     # TODO Aggiungere 2 o più test per coprire funzione2
     pass
 
-def test_funzione2():
+def test_funzione3():
     # TODO Aggiungere 2 o più test per coprire funzione3
     pass
 
