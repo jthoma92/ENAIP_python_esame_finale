@@ -1,0 +1,78 @@
+[
+  {
+    "nome": "Alice",
+    "eta": 30,
+    "citta": "Roma"
+  },
+  {
+    "nome": "Bob",
+    "eta": 25,
+    "citta": "Milano"
+  },
+  {
+    "nome": "Charlie",
+    "citta": "Roma"
+  },
+  {
+    "nome": "David",
+    "eta": "trentadue",
+    "citta": "Napoli"
+  },
+  {
+    "nome": "Eve",
+    "eta": 28,
+    "citta": "Roma",
+    "professione": "Ingegnere"
+  },
+  {
+    "nome": "Frank",
+    "eta": 40,
+    "paese": "Germania"
+  },
+  {
+    "nome": "Grace",
+    "eta": 22,
+    "citta": "Milano"
+  },
+  {
+    "nome": "Heidi",
+    "eta": null,
+    "citta": "Firenze"
+  },
+  {
+    "nome": "Ivan",
+    "eta": 31,
+    "citta": "Roma"
+  },
+  {
+    "nome": "Judy",
+    "eta": 27
+  },
+  {
+    "nome": "Kevin",
+    "eta": 38,
+    "citta": "Torino"
+  },
+  {
+    "nome": "Laura",
+    "eta": 29,
+    "citta": "Roma"
+  },
+  {
+    "nome": "Mike",
+    "eta": "ventisei",
+    "citta": "Bari"
+  },
+  {
+    "nome": "Nancy",
+    "eta": 33,
+    "citta": "Venezia"
+  },
+  {
+    "nome": "Oliver",
+    "eta": 24,
+    "citta": "Roma",
+    "interessi": ["Python", "Libri"]
+  },
+  {}
+]
