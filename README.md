@@ -8,7 +8,7 @@
 ### Configurare e attivare l'ambiente virtuale
 ### Installare le dipendenze (pip install -r requirements.txt, o mentre si inizializza l'ambiente virtuale).
 ### Completare le funzioni e i metodi indicati con TODO per i seguenti file (anche nel file di pytest).
-Numeri 1 e 2 sono necessari per la sufficienze nel esame di pratica. 
+Numeri 1 e 2 sono necessari per la sufficienza nel esame pratico. 
   1. File progetto/modulo1.py:
      - TODO: funzione1
      - TODO: funzione2
@@ -24,5 +24,5 @@ Numeri 1 e 2 sono necessari per la sufficienze nel esame di pratica.
   3. File progetto/modulo2.py
      - Leggere i contenuti di questo file per capire le funzionalità da aggiungere a una funzione.
      - Ci sono 4 compiti per finire questo file. Ogno compito aggiungerà 1 punto al voto per la pratica. 
-### Creare un commit dei seguenti file (aggiungendo .gitignore nelle cartelle di cache create in automatico)
+### Eseguire un commit dei seguenti file (aggiungendo .gitignore nelle cartelle di cache create in automatico)
 ### Aggiornare il codice sul repository remoto (github) eseguendo un Push da VS code. 
