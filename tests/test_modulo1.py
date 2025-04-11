@@ -14,11 +14,12 @@ def test_funzione2():
     pass
 
 def test_metodo1():
-    istanza = classeDaFinire("Nome")
-    assert istanza.metodo2() == "  "
+    istanza = classeDaFinire("Nome", 10, "Milano")
+    # TODO: Modificare l'assert per far passare il test
+    assert istanza.metodo1() == "  "
 
 def test_metodo2():
-    istanza = classeDaFinire("Test")
+    istanza = classeDaFinire("Nome2", 35, "Trieste")
     istanza.metodo2(5)
     # TODO: Aggiungere un'asserzione per verificare il comportamento del metodo2
     pass
