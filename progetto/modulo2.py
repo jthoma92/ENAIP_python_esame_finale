@@ -10,12 +10,12 @@ def leggi_da_file(filepath):
 
 def elabora_dati_json(dati):
     """
-    ISTRUZIONI PER LO STUDENTE (AGGIORNATE):
-    Questa funzione prende una lista di dizionari (come letto da un file JSON)
+    ISTRUZIONI:
+    Questa funzione prende una lista di dizionari (letto da un file JSON)
     e dovrebbe eseguire alcune operazioni sui dati, gestendo anche eventuali
     voci non valide o incomplete.
 
-    COMPLETA LE SEGUENTI AZIONI:
+    Da fare in questa funzione:
 
     TODO 1. Stampa il numero totale di voci (dizionari) presenti nei dati.
     TODO 2. Crea una nuova lista contenente solo i nomi delle persone che vivono a Roma.
