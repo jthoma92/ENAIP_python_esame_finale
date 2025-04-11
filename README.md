@@ -1,6 +1,6 @@
 # ENAIP_python_esame_finale
 
-##Da fare per l'esame:
+## Da fare per l'esame:
 ### Creare un FORK del repo
 ### Nel Settings > Collaborators del progetto, aggiungere jthoma92@gmail.com come collaboratore
 ### Clonare il repository in locale
