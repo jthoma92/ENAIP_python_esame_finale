@@ -26,15 +26,15 @@ class classeDaFinire:
 
     def metodo1(self):
         """
-        Questo metodo dovrebbe restituire una introduzione della persona (restituendo
-        una stringa di con nome, età e città di provenienza).
+        Questo metodo dovrebbe restituire un'introduzione della persona (restituendo
+        una stringa con nome, età e città di provenienza).
         """
         # TODO: Implementare il metodo
         pass
 
     def metodo2(self, x):
         """
-        Questo metodo dovrebbe aggiungere un argomento all'età dell'oggetto.
+        Questo metodo dovrebbe aggiungere un argomento numerico all'età dell'oggetto.
         """
         # TODO: Implementare il metodo
         pass
