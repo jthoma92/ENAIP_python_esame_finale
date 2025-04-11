@@ -1,21 +1,24 @@
 def funzione1(x, y):
     """Questa funzione restituisce l'area di un retangolo"""
-    # TODO: Completa l'implementazione.
-    pass
+    return x*y
+
 
 def funzione2(y):
     """
     Questa funzione accetta un nome e restituisce un saluto personalizzato alla persona.
     """
-    # TODO: Completa l'implementazione.
-    pass
+    return f"Ciao {y} felice di vederti!"
+
 
 def funzione3(y, z):
     """
     Questa funzione trova e restituisce il massimo dei due numeri.
     """
-    # TODO: Completa l'implementazione.
-    pass
+    if y>z:
+        return y
+    else:
+        return z
+      
 
 
 class classeDaFinire:
@@ -29,12 +32,14 @@ class classeDaFinire:
         Questo metodo dovrebbe restituire un'introduzione della persona (restituendo
         una stringa con nome, età e città di provenienza).
         """
-        # TODO: Implementare il metodo
-        pass
+        return f"{self.nome} ha {self.età} anni e viene da {self.città}"
 
     def metodo2(self, x):
         """
         Questo metodo dovrebbe aggiungere un argomento numerico all'età dell'oggetto.
         """
-        # TODO: Implementare il metodo
-        pass
+        return f"{self.nome} tra {x} anni avrà {self.età + x}"
+
+# Paolo = classeDaFinire("Paolo", 33, "Trieste")
+# print(Paolo.metodo1())
+# print(Paolo.metodo2(5))
