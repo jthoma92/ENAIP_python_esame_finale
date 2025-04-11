@@ -22,7 +22,6 @@ Numeri 1 e 2 sono necessari per la sufficienza nel esame pratico.
      - TODO: scrivere i test per metodo1
      - TODO: scrivere i test per metodo2
   3. File progetto/modulo2.py
-     - Leggere i contenuti di questo file per capire le funzionalità da aggiungere a una funzione.
-     - Ci sono 4 compiti per finire questo file. Ogno compito aggiungerà 1 punto al voto per la pratica. 
+     - Ci sono 4 compiti per finire questo file - segnati TODO nel codice. Ogno compito aggiungerà 1 punto al voto per la pratica. 
 ### Eseguire un commit dei seguenti file (aggiungendo .gitignore nelle cartelle di cache create in automatico)
 ### Aggiornare il codice sul repository remoto (github) eseguendo un Push da VS code. 
